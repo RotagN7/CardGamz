@@ -1,0 +1,2 @@
+# CardGamz
+Card Games application. 
